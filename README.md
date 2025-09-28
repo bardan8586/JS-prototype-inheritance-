@@ -4,7 +4,7 @@ A comprehensive demonstration of JavaScript prototypes and inheritance with inte
 
 ## 🚀 Live Demo
 
-Visit the live demo: [js-prototype-demo.com](https://js-prototype-demo.com)
+Visit the live demo: [GitHub Pages](https://bardan8586.github.io/JS-prototype-inheritance-/)
 
 ## 📁 Files
 
